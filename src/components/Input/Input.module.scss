@@ -213,7 +213,6 @@
   color: var(--ac-input-default-text);
   cursor: pointer;
   background: var(--default-second);
-  margin-right: var(--16-space);
   @include input-color-states;
 }
 
